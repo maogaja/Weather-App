@@ -6,9 +6,9 @@ This app enables one to check the weather around and all over the world at a gla
 This accurate weather app allows one to find out a detailed forecast wherever they are, any time of the day.
 
 ##It shows:
-+Current temperature
-+Wind speed 
-+Humidity
+ Current temperature
+	Wind speed 
+ Humidity
 
 
  Click here to see the live preview:
