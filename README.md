@@ -9,3 +9,4 @@ Sunrise/sunset time
 Weather Radar & Rain maps
 
 ![ALT TEXT](https://github.com/maogaja/Weather-App/issues/3#issue-2152641258)
+<img src="C:\Users\maoga\Web Projects\Project-Weather App\Screen-shot\Weather App-screen shot.png">
