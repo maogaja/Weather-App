@@ -1,7 +1,10 @@
+This app enables one to check the weather around and all over the world at a glance. 
 
+This accurate weather app allows one to find out a detailed forecast wherever they are, any time of the day.
+It shows:
+Current and “Feels like” temperature
+Wind speed and direction
+Pressure and precipitation information
+Sunrise/sunset time
+Weather Radar & Rain maps
 
-# This is a Weather-App
-
-
-#Description
-This app allows a user to enter in a city of their choice to check for weather updates. It will display the current temperature, humidity and wind speed.
