@@ -8,4 +8,5 @@ Pressure and precipitation information
 Sunrise/sunset time
 Weather Radar & Rain maps
 
-![Weather App-screen shot](https://github.com/maogaja/Weather-App/assets/121969650/a4e98b6f-33ee-4b68-8782-aab4b1f5852f)
+![Screenshot-Weather App](https://github.com/maogaja/Weather-App/assets/121969650/be07e860-8794-4bc3-a260-9c6caa48e4d3)
+
