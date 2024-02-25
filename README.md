@@ -8,3 +8,4 @@ Pressure and precipitation information
 Sunrise/sunset time
 Weather Radar & Rain maps
 
+![image](file:///C:/Users/maoga/Web%20Projects/Project-Weather%20App/images/clouds.png)
