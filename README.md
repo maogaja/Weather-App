@@ -13,7 +13,7 @@ This accurate weather app allows one to find out a detailed forecast wherever th
 
  Click here to see the live preview:
 
-https://github.com/maogaja/Weather-App.git
+https://maogaja.github.io/Weather-App/
 
 
 Sample Image:
